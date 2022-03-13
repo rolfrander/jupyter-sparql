@@ -1,0 +1,8 @@
+Apache Jena - module Fuseki (Docker)
+Copyright - The Apache Software Foundation
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+Code copied from
+https://github.com/apache/jena/tree/main/jena-fuseki2/jena-fuseki-docker
